@@ -1,3 +1,4 @@
+﻿# Sistema_controle_estoque_C
 Um sistema de controle de estoque desenvolvido em linguagem C, para estudar às etapas do desenvolvimento de um programa funcional. Não tem todos os tipos de relatórios, pois foi sorteado 2 por equipe, os relatórios especiais desenvolvidos pela minha equipe foram relatório de lista de preço e relatório de produto por unidade. Também há funções desenvolvidas pelo professor e cedidas aos alunos.
 
 Autores: Leandro Rodrigues Carneiro e Gustavo Batista de Souza
